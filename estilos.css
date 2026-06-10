@@ -1,0 +1,11 @@
+
+/*--Estilos del cuerpo--*/
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Para Computador: */
+@media only screen and (min-width: 800px) {
+
+}
